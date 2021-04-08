@@ -1,5 +1,4 @@
 # GeekBrains_course_project_MySQL_Leonid_Yakovlev
-Course project at the rate of MySQL - a database of purchases of a typical industrial enterprise
 
 База данных purchases_db описание:
 База данных содержит в себе данные по закупкам типового промышленного предприятия, имеющего структуру закупок сходную с описанной в ФЗ-223 «О закупках товаров, работ, услуг отдельными видами юридических лиц».
